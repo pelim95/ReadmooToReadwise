@@ -13,6 +13,10 @@
 6. 選擇提交。
 7. 您可以開始在Readwise上檢視您的劃線與注記了。
 
+影片版使用手冊
+https://youtu.be/zpL649JyDzo
+
+
 Sample:
 
 ![image](https://user-images.githubusercontent.com/22808270/132120413-db4018ab-0a2e-49f3-b814-1d31ba14430c.png)
